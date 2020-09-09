@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-imo
+import math
 
 def square_root(number: int) -> float:
     # TODO completer la fonction
     return number**(1/2)
-
+math.
 
 def square(number: int) -> int:
     # TODO completer la fonction
