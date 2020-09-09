@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+imo
 
 def square_root(number: int) -> float:
     # TODO completer la fonction
@@ -9,7 +9,7 @@ def square_root(number: int) -> float:
 
 def square(number: int) -> int:
     # TODO completer la fonction
-    return math.pow()
+    return math.pow(number, 2)
 
 
 def main() -> None:
